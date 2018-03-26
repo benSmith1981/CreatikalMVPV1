@@ -1,0 +1,193 @@
+newmtl Mesh_Shark:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_Shark.png
+Ni 1.00
+newmtl Mesh_SharkFin:lambert2SG
+illum 4
+Kd 0.17 0.18 0.16
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Pirate_01:A1A1A
+illum 4
+Kd 0.10 0.10 0.10
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Pirate_01:A64
+illum 4
+Kd 0.27 0.35 0.39
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Pirate_01:FFCC88
+illum 4
+Kd 1.00 0.80 0.53
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Pirate_01:FFFFFF
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl blinn1SG
+illum 4
+Kd 0.01 0.25 0.31
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn2SG
+illum 4
+Kd 0.02 0.50 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn3SG
+illum 4
+Kd 0.10 0.14 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl islandModel:mat4
+illum 4
+Kd 0.00 0.74 0.83
+Ka 0.00 0.74 0.83
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl islandModel:mat9
+illum 4
+Kd 0.55 0.76 0.29
+Ka 0.55 0.76 0.29
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl islandModel:mat11
+illum 4
+Kd 0.00 0.59 0.53
+Ka 0.00 0.59 0.53
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl islandModel:mat15
+illum 4
+Kd 0.81 0.85 0.86
+Ka 0.81 0.85 0.86
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl islandModel:mat20
+illum 4
+Kd 0.47 0.33 0.28
+Ka 0.47 0.33 0.28
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl phongE1SG
+illum 4
+Kd 0.05 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pirateShip:mat12
+illum 4
+Kd 1.00 0.92 0.23
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShip:mat20
+illum 4
+Kd 0.47 0.33 0.28
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShip:mat23
+illum 4
+Kd 0.62 0.62 0.62
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShip:mat25
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShip:mat27
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShipFlyingModel:mat8
+illum 4
+Kd 0.96 0.26 0.21
+Ka 0.96 0.26 0.21
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShipFlyingModel:mat14
+illum 4
+Kd 1.00 0.34 0.13
+Ka 1.00 0.34 0.13
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShipFlyingModel:mat16
+illum 4
+Kd 0.47 0.56 0.61
+Ka 0.47 0.56 0.61
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShipFlyingModel:mat18
+illum 4
+Kd 1.00 0.80 0.53
+Ka 1.00 0.80 0.53
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShipFlyingModel:mat19
+illum 4
+Kd 0.87 0.60 0.27
+Ka 0.87 0.60 0.27
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShipFlyingModel:mat20
+illum 4
+Kd 0.47 0.33 0.28
+Ka 0.47 0.33 0.28
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShipFlyingModel:mat25
+illum 4
+Kd 0.62 0.62 0.62
+Ka 0.62 0.62 0.62
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShipFlyingModel:mat27
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pirateShipFlyingModel:mat30
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl useBackground1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
