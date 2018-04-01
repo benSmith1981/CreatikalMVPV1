@@ -11,7 +11,7 @@ import Foundation
 class Shark: VirtualObject {
     
     override init() {
-        super.init(modelName: "Mesh_Shark", fileExtension: "obj", thumbImageFilename: "shark", title: "Shark")
+        super.init(modelName: "shark_zeroed", fileExtension: "obj", thumbImageFilename: "shark", title: "Shark")
     }
     
     required init?(coder aDecoder: NSCoder) {
