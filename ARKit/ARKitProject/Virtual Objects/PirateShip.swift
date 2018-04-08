@@ -10,7 +10,7 @@ import Foundation
 class PirateShip: VirtualObject {
     
     override init() {
-        super.init(modelName: "pirateShip", fileExtension: "obj", thumbImageFilename: "pirateShip", title: "Pirate Ship")
+        super.init(modelName: "pirateShip_zeroed", fileExtension: "obj", thumbImageFilename: "pirateShip", title: "Pirate Ship")
     }
     
     required init?(coder aDecoder: NSCoder) {
