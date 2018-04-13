@@ -11,7 +11,7 @@ import Foundation
 class Pirate: VirtualObject {
     
     override init() {
-        super.init(modelName: "pirate_zeroed", fileExtension: "obj", thumbImageFilename: "pirate", title: "Pirate")
+        super.init(modelName: "pirate_animation_v003_daeForBen", fileExtension: "dae", thumbImageFilename: "pirate", title: "Pirate")
     }
     
     required init?(coder aDecoder: NSCoder) {
